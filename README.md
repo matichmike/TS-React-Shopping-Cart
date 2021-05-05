@@ -3,10 +3,10 @@ Small practice shopping cart app using Typescript, React, FakestoreAPI, Styled C
 The app is deployed at Netlify, please click [HERE](https://quirky-lovelace-06dc05.netlify.app)
 
 ## Preview
-![“Screenshot”](https://github.com/matichmike/TS-React-Shopping-Cart/blob/master/src/images/title.png?raw=true)
+![“Screenshot”](https://github.com/matichmike/TS-React-Shopping-Cart/blob/master/images/title.png?raw=true)
 <br/>
 <br/>
-![“Screenshot”](https://github.com/matichmike/TS-React-Shopping-Cart/blob/master/src/images/cart.png?raw=true)
+![“Screenshot”](https://github.com/matichmike/TS-React-Shopping-Cart/blob/master/images/cart.png?raw=true)
 <br/>
 <br/>
 
