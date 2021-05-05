@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Typescript/React Shopping Cart
+Small practice shopping cart app using Typescript, React, FakestoreAPI, Styled Components and Material-UI.
+The app is deployed at Netlify, please click [HERE](https://quirky-lovelace-06dc05.netlify.app)
+
+## Preview
+![“Screenshot”](https://github.com/matichmike/TS-React-Shopping-Cart/blob/master/src/images/title.png?raw=true)
+<br/>
+<br/>
+![“Screenshot”](https://github.com/matichmike/TS-React-Shopping-Cart/blob/master/src/images/cart.png?raw=true)
+<br/>
+<br/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
